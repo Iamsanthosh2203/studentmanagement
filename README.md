@@ -11,6 +11,7 @@ This documentation provides information about the Student Management System API,
 5.  [Environment Variables](#environment-variables)
 6.  [Sample Examples](#sample-examples)
 7.  [Additional Notes](#additional-notes)
+8. [Contact](#contact)
 
 ## Project Overview
 
